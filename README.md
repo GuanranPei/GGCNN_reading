@@ -7,4 +7,8 @@
 - Source code based on:  
   https://github.com/dougsm/ggcnn  
   https://github.com/OneOneLiu/ggcnn_cornell_dataset
+- Progress:  
+  1. Load and visualize dataset
+  2. Prepare Dataset and build neural network
+  3. Image processing for the training
 
