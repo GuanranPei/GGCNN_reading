@@ -1,5 +1,5 @@
 ### GGCNN_reading
-- Code Reproduction and Comments of GGCNN
+- Code Reproduction and Comments of GGCNN (Generative Grasping Convolutional Neural Network)
 - author: Guanran Pei
 - Date: 23.05.2023
 - Paper:  
