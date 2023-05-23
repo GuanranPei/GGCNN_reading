@@ -11,7 +11,7 @@
   1. Load and visualize dataset
   2. Prepare Dataset and build neural network
   3. Image processing for the training
-- Source code:  
+- Source code folder:  
   ggcnn_source code
-- Reproduction code:
+- Reproduction code folder:
   ggcnn_code_reading
